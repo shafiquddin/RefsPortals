@@ -1,4 +1,5 @@
 import Player from './components/Player.jsx';
+import ResultModel from './components/ResultModel.jsx';
 import TimerChallenge from './components/TimerChallenge.jsx';
 
 function App() {
